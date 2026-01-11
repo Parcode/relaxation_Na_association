@@ -1,0 +1,4 @@
+%%              50mM                            		300mM                           		700mM                           		10mM NaCl
+%%             	T=278K		T=283K          T=293K          T=278K		T=283K           T=293K         T=278K		T=283K           T=293K         T=278K		T=283K           T=293K
+%% Field (T)  	Diff	err	Diff	err    Diff	err     Diff	err	Diff    err     Diff      err    Diff	err	Diff    err     Diff      err   Diff	err	Diff    err     Diff    err
+11.74		30.2	0.1	32.046  0.103  1.01e-9  3.2e-11	16.6	0.1	17.798  0.183	6.81e-10  6e-12	 13.03	0.03	14.09   0.03	6.02e-10  6e-12	32.7	0.6	32.818  0.558	1.07e-9 3.8e-11 
